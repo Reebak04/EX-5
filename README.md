@@ -53,9 +53,10 @@ while True:
 ```
 ## OUTPUT :
 ### clientoutput:
-![3bco](https://github.com/Reebak04/EX-5/assets/118364993/9aa7e6e0-1b53-4cd4-a94a-65be6f1e8b41)
+![co](https://github.com/Reebak04/EX-5/assets/118364993/7dce7bde-23c6-4110-a1a9-493b7fff6d36)
+
 ### serveroutput:
-![3bso](https://github.com/Reebak04/EX-5/assets/118364993/68540434-88e5-40c9-a2eb-cbf694d942be)
+![so](https://github.com/Reebak04/EX-5/assets/118364993/727bb33a-4dbc-454a-be95-268815b77a35)
 
 ## RESULT :
 Thus, python program for simulating RARP protocols using UDP was successfully executed.
